@@ -5,6 +5,3 @@ front end banking application
 - new terminal at directory or cd into it
 - $ npm start
 - go to host localhost:8080 in web browser
-
-### movie magic (demo)
-https://youtu.be/aWx5jXGN8Gc
